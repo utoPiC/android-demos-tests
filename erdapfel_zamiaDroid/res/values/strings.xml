@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CridadorDeZamiaDroid</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="zamiaDroidCitationCreate">uni.projecte.zamiaDroid.Citation.CREATE</string>
+    <string name="zamiaDroidCitationEdit">uni.projecte.zamiaDroid.Citation.EDIT</string>
+    <string name="zamiaDroidCitationMap">uni.projecte.zamiaDroid.Citation.MAP</string>
+    
+</resources>
